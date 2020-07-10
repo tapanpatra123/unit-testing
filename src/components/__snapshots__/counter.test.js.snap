@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter page to snapshot 1`] = `
+<div>
+  <h1>
+    Title Goes Here
+  </h1>
+  <button
+    className="increament"
+    onClick={[Function]}
+  >
+     Click To Increase 
+  </button>
+  <button
+    className="decreament"
+    onClick={[Function]}
+  >
+     Click To Decrease 
+  </button>
+  <h2>
+    0
+  </h2>
+</div>
+`;

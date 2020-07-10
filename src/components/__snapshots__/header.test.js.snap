@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header section to snapshot 1`] = `
+<header
+  data-list="headerSection"
+>
+  <img
+    data-list="HeaderLogo"
+    src="https://respinor.com/wp-content/uploads/2017/04/logo-dummy.png"
+  />
+</header>
+`;

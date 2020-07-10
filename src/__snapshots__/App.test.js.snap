@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component to snapshot 1`] = `
+<div
+  className="app"
+>
+  <Header />
+  <Counter
+    name="Title Goes Here"
+  />
+  <Footer
+    name="footer contenet goes here"
+  />
+</div>
+`;

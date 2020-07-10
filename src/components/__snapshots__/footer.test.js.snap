@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`footer for snapshot 1`] = `
+<div
+  className="footer"
+>
+  footer contenet goes here
+</div>
+`;
